@@ -9,14 +9,14 @@ Elle permet d’afficher la météo du jour et les prévisions sur 5 jours une f
 
 ## Démonstration
 
-Vous pouvez consulter la démo [ICI](https://`)
+Vous pouvez consulter la démo [ICI](https://vincent-peron.github.io/Weather-and-forecast/index.html?city=brest)
 
 ## Personnalisation
 
 Pour afficher la météo de votre ville il suffit de modifier le nom de la ville dans l'url
 
 ```bash
-....
+https://vincent-peron.github.io/Weather-and-forecast/index.html?city=brest
 ```
 
 ## Paramètres
